@@ -2,7 +2,6 @@ package Properties;
 
 import javafx.beans.binding.ObjectBinding;
 import javafx.beans.property.SimpleObjectProperty;
-import nativeLinkers.Song;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
