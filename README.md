@@ -5,3 +5,6 @@ This is a Small Wrapper around a custom Objective-C Binary which returns the 'no
 This Library is written with java 16, but since it only relies on the binary, you can adapt the methods used inside the property handlers to port this to any java version.
 
 This does *NOT* work on windows!
+
+
+The MediaRemote.h comes from https://github.com/davidmurray/ios-reversed-headers/blob/master/MediaRemote/MediaRemote.h (Great Project ! Check it out)
