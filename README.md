@@ -1,4 +1,4 @@
-# MacNativeNowPlayingAccessForJava
+# Mac NowPlaying in Java
 
 This is a Small Wrapper around a custom Objective-C Binary which returns the 'now playing' song on macOS.(The song(s) you can see in the 'nowPlaying' Widget )
 
