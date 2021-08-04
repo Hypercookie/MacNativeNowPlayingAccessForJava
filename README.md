@@ -4,6 +4,8 @@ This is a Small Wrapper around a custom Objective-C Binary which returns the 'no
 
 This Library is written with java 16, but since it only relies on the binary, you can adapt the methods used inside the property handlers to port this to any java version.
 
+
+Note that this example requires JavaFx. But you can use this Library for anything.
 This does *NOT* work on windows!
 
 
